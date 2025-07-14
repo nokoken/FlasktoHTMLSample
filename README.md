@@ -30,3 +30,4 @@ Python 3.11.4
 ```
 
 ## CI/CD
+jenkinsとngrokを使って連携
